@@ -17,7 +17,7 @@ public class TypeCastingEg
 			int i = (int) f1;
 			System.out.println("int to float value:" + i);
 			
-			//implicit casting eg 
+			//implicit casting example
 			char c = 'a';
 			int n = c;
 			
